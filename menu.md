@@ -1,4 +1,4 @@
-# Menu
+# Menu du jour
 
 - Houmous 
 - Moutabal
